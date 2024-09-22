@@ -4,4 +4,4 @@
 - 🔗 I’m looking to collaborate on Linkedin
 - 📫 How to reach me : rohan.email.now@gmail.com
 - 😃 Pronouns: he/him
-ig:lviffy
+- ig:lviffy
