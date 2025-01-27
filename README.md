@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
+<!-- List Of Websites-->
+
+[linkedin]: https://www.linkedin.com/in/rohan-kumar-mohanta-3b8421324/
+[twitter]: https://x.com/Lviffyy
+[github]: https://www.github.com/lviffy
+[gmail]: mailto:contact.rohan.here@gmail.com
+
+### <samp>&gt; Hi there, I'm <a href="https://www.instagram.com/lviffy" target="_blank">Rohan Kumar Mohanta </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=X&logoColor=white)][twitter]
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lviffy&label=Profile%20views&color=0e75b6&style=flat" alt="lviffy" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
