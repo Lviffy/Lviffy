@@ -43,7 +43,7 @@
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" alt="Solidity" title="Solidity"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/metamask.png" alt="Metamask" title="Metamask"/></a> </p>
 
-![Lviffy's Stats](https://github-readme-stats.vercel.app/api?username=Lviffy&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+![lviffy's Stats](https://github-readme-stats.vercel.app/api?username=lviffy&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 
 ![Lviffy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lviffy&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
