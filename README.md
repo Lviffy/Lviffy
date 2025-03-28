@@ -51,8 +51,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
   
   ---
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=lviffy&icon=1&color=0" alt="Visit Count" />
-  </a>
 </div>
 
