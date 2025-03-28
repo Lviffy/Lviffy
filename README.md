@@ -4,6 +4,11 @@
 [github]: https://www.github.com/lviffy
 [gmail]: mailto:contact.rohan.here@gmail.com
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/lviffy/count.svg?"  />
+</div>
+
+###
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lviffy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohan-kumar-mohanta-3b8421324/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lviffy_) 
 
@@ -15,6 +20,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=lviffy&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lviffy&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<img src="https://raw.githubusercontent.com/lviffy/lviffy/output/snake.svg" alt="Snake animation" />
+
+###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lviffy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
