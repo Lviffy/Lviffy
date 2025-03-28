@@ -20,7 +20,7 @@
 <a href="https://instagram.com/lviffy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lviffy" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
@@ -43,6 +43,8 @@
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" alt="Solidity" title="Solidity"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/metamask.png" alt="Metamask" title="Metamask"/></a> </p>
 
+<p align="center">
 ![lviffy's Stats](https://github-readme-stats.vercel.app/api?username=lviffy&theme=prussian&show_icons=true&hide_border=false&count_private=true)<br>
 ![lviffy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lviffy&theme=prussian&hide_border=false)<br>
 ![lviffy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lviffy&theme=prussian&show_icons=true&hide_border=false&layout=compact)
+</p>
